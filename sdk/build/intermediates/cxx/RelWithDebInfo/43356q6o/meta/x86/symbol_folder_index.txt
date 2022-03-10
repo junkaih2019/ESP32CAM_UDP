@@ -1,0 +1,1 @@
+E:\Codefield\AndroidStudioProjects\ESP32CAM_UDP\sdk\build\intermediates\cxx\RelWithDebInfo\43356q6o\obj\x86

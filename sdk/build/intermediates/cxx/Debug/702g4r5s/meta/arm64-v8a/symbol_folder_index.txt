@@ -1,0 +1,1 @@
+E:\Codefield\AndroidStudioProjects\ESP32CAM_UDP\sdk\build\intermediates\cxx\Debug\702g4r5s\obj\arm64-v8a

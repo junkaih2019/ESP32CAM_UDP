@@ -1,0 +1,1 @@
+E:\Codefield\AndroidStudioProjects\testOpenCV\sdk\build\intermediates\cxx\Debug\6v1nk2d4\obj\x86_64
